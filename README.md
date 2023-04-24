@@ -1,2 +1,6 @@
 # Marketing-Criativo
-Landing Page
+Landing Page Responsiva
+
+HTML e CSS
+
+https://devdan88.github.io/Marketing-Criativo/
